@@ -27,7 +27,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- <img src="https://raw.githubusercontent.com/fairuznawar122/fairuznawar122/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/fairuznawar122/fairuznawar122/output/github-contribution-grid-snake.svg" />
 
   
   <br/><br/><br/>
