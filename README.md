@@ -12,6 +12,8 @@
  🔭 I’m currently working on **my personal website.**
  
  🌱 I’m currently learning **Leetcode!**
+ 
+ 👯 I’m looking to collaborate on **anything interesting **
 
 💬 Ask me about **My Thesis!**
 
@@ -25,7 +27,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/fairuznawar122/fairuznawar122/output/snake.svg" alt="Snake animation" />
+
   
   <br/><br/><br/>
 </div>
