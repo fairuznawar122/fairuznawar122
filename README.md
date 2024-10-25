@@ -27,7 +27,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<img src="https://raw.githubusercontent.com/fairuznawar122/fairuznawar122/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/fairuznawar122/fairuznawar122/output/github-contribution-grid-snake.gif#gh-light-mode-only" />
 
 
 <img src="https://raw.githubusercontent.com/fairuznawar122/fairuznawar122/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
