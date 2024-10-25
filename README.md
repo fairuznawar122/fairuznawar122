@@ -29,13 +29,6 @@
   <br>
  <img src="https://raw.githubusercontent.com/fairuznawar122/fairuznawar122/output/github-contribution-grid-snake.svg" />
 
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<br/><br/>
 
 <hr/>
 
