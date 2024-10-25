@@ -17,6 +17,10 @@
 
 💬 Ask me about **My Thesis!**
 
+🦉📫 Send your Hedwig at [fairuz.nawar.fn@gmail.com](mailto:fairuz.nawar.fn@gmail.com)
+
+
+
 ⚡ Fun fact : **I am learning to do headstands!**
 
  </div>
