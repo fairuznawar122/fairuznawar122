@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Leetcode!**
  
- 👯 I’m looking to collaborate on **anything interesting **
+ 👯 I’m looking to collaborate on **anything interesting*.*
 
 💬 Ask me about **My Thesis!**
 
