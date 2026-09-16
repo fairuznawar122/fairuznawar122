@@ -9,13 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **my personal website.**
+ 🔭 I’m currently working on **my master's thesis**
  
- 🌱 I’m currently learning **Leetcode!**
+ 🌱 I’m currently learning **about security**
  
  👯 I’m looking to collaborate on **anything interesting*.*
-
-💬 Ask me about **My Thesis!**
 
 🦉📫 Send your Hedwig at [fairuz.nawar.fn@gmail.com](mailto:fairuz.nawar.fn@gmail.com)
 
